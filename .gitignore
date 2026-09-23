@@ -172,3 +172,5 @@ cython_debug/
 
 # Another cache
 cache/
+# артефакты ноутбука (лежат в MLflow)
+model_improvement/assets/
